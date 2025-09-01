@@ -1,14 +1,16 @@
-## RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+# RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 01 de setembro de 2025
+
 Empresa: Abstergo Industries
+
 Responsável: Gustavo Henrique Silva
 
-## INTRODUÇÃO
+## Introdução
 
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Gustavo Henrique Silva. O objetivo do projeto foi *elencar 3 serviços AWS, com a finalidade de* realizar diminuição de custos imediatos.
 
-## DESCRIÇÃO DO PROJETO
+## Descrição do projeto
 
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
@@ -33,7 +35,7 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 
 ## Anexos
 
-AWS EC2
+### AWS EC2
 
 <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2023/06/07/Screenshot-2023-06-07-at-12.41.13-PM-957x1024.png" alt="Oracle com bancos de dados standby em cascata entre regiões"/>
 
@@ -45,7 +47,7 @@ AWS EC2
 
 *Visão geral AWS EC2:* https://aws.amazon.com/pt/ec2/
 
-AWS RDS
+### AWS RDS
 
 <img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2021/10/27/Figure-2.-Amazon-RDS-data-transfer.jpg" alt="Transferência de dados com Amazon RDS"/>
 
@@ -55,7 +57,7 @@ AWS RDS
 
 *Documentação AWS RDS:* https://docs.aws.amazon.com/rds/?nc2=h_ql_doc_rds
 
-AWS Trusted Advisor
+### AWS Trusted Advisor
 <img src="https://media.amazonwebservices.com/blog/2014/ta_con_dashboard_1.png" alt="Dashboard AWS Trusted Advisor"/>
 
 *Figura 3. Dashboard AWS Trusted Advisor*
