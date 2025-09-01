@@ -34,23 +34,35 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 ## Anexos
 
 AWS EC2
-https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2023/06/07/Screenshot-2023-06-07-at-12.41.13-PM-957x1024.png
+
+<img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2023/06/07/Screenshot-2023-06-07-at-12.41.13-PM-957x1024.png" alt="Oracle com bancos de dados standby em cascata entre regiões"/>
+
 *Figura 1. Oracle com bancos de dados standby em cascata entre regiões*
-Iniciando com AWS EC2: https://aws.amazon.com/pt/ec2/getting-started/
-Definição de preço do AWS EC2: https://aws.amazon.com/pt/ec2/pricing/?pg=ln&sec=be
-Visão geral AWS EC2: https://aws.amazon.com/pt/ec2/
+
+*Iniciando com AWS EC2:* https://aws.amazon.com/pt/ec2/getting-started/
+
+*Definição de preço do AWS EC2:* https://aws.amazon.com/pt/ec2/pricing/?pg=ln&sec=be
+
+*Visão geral AWS EC2:* https://aws.amazon.com/pt/ec2/
 
 AWS RDS
-https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2021/10/27/Figure-2.-Amazon-RDS-data-transfer.jpg
+
+<img src="https://d2908q01vomqb2.cloudfront.net/fc074d501302eb2b93e2554793fcaf50b3bf7291/2021/10/27/Figure-2.-Amazon-RDS-data-transfer.jpg" alt="Transferência de dados com Amazon RDS"/>
+
 *Figura 2. Transferência de dados com Amazon RDS*
-Visão geral AWS RDS: https://aws.amazon.com/pt/rds/
-Documentação AWS RDS: https://docs.aws.amazon.com/rds/?nc2=h_ql_doc_rds
+
+*Visão geral AWS RDS:* https://aws.amazon.com/pt/rds/
+
+*Documentação AWS RDS:* https://docs.aws.amazon.com/rds/?nc2=h_ql_doc_rds
 
 AWS Trusted Advisor
-https://media.amazonwebservices.com/blog/2014/ta_con_dashboard_1.png
+<img src="https://media.amazonwebservices.com/blog/2014/ta_con_dashboard_1.png" alt="Dashboard AWS Trusted Advisor"/>
+
 *Figura 3. Dashboard AWS Trusted Advisor*
-Visão geral AWS Trusted Advisor: https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/
-Documentação AWS Trusted Advisor: https://docs.aws.amazon.com/awssupport/latest/user/get-started-with-aws-trusted-advisor.html
+
+*Visão geral AWS Trusted Advisor:* https://aws.amazon.com/pt/premiumsupport/technology/trusted-advisor/
+
+*Documentação AWS Trusted Advisor:* https://docs.aws.amazon.com/awssupport/latest/user/get-started-with-aws-trusted-advisor.html
 
 Assinatura do responsável pelo projeto:
 Gustavo Henrique Silva
